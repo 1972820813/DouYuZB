@@ -8,6 +8,7 @@
 
 import UIKit
 
+//使用git创建项目,并使用命令行导出及上传代码
 class ViewController: UIViewController {
 
     let name = "名字";
